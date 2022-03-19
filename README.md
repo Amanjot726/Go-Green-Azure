@@ -6,7 +6,7 @@
 
 
 
-<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" width="240" height="56" alt="HTML, CSS , JS" title="HTML, CSS , JS"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="50" height="50" alt="Bootstrap" title="Bootstrap">
+<img src="https://github.com/Amanjot726/Go-Green-Webpage/blob/main/Images/HTML%20CSS%20JS.png?raw=true" width="160" height="50" alt="HTML, CSS , JS" title="HTML, CSS , JS"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="50" height="50" alt="Bootstrap" title="Bootstrap">
 # Languages
 
 - ## HTML
